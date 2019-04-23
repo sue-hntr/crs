@@ -7,7 +7,7 @@ function Nav() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <a className="navbar-brand" href="/books">
-        React Reading List
+        CRS Consumer Registration for Services
       </a>
       <Link className="navbar-brand" to="/saved">
         Database

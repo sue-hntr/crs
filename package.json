@@ -1,8 +1,8 @@
 {
-  "name": "booksearch",
+  "name": "crs",
   "version": "1.0.0",
   "main": "server.js",
-  "homepage": "https://sue-hntr.github.io/booksearchku",
+  "homepage": "https://sue-hntr.github.io/crs",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -24,10 +24,12 @@
     "axios": "^0.18.0",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
+    "firebase": "^5.9.4",
     "gh-pages": "^2.0.1",
     "if-env": "^1.0.4",
     "mongoose": "^5.4.22",
     "morgan": "^1.9.1",
-    "react-router-dom": "^5.0.0"
+    "react-router-dom": "^5.0.0",
+    "recompose": "^0.30.0"
   }
 }

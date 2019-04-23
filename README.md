@@ -12,5 +12,11 @@ Frontend is React and Bootstrap
 
 Learn to push to Mongo instead of Firebase in tutorials
 
+Using this tutorial to learn how to create 
+    A Firebase in React Tutorial for Beginners [2019]
+    React Firebase Authorization with Roles
+Copied week 20 activity 7 framework for React/Express to use in these tutorials
+Created Github repo called reactfirebase for this
+
 
 
